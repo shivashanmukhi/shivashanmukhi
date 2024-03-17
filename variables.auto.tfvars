@@ -1,6 +1,0 @@
-storageaccountname = "shstore1703"
-publicipname       = "shpip"
-nsgname            = "shnsg"
-nicname            = "shnic"
-vmname             = "shvm"
-adminname          = "shanmukhi"
